@@ -1,2 +1,3 @@
 # hello-world
-Learning to use GitHub
+This is a sample sample app that I will use to learn the featuress offered by GitHub.
+Here we go...
